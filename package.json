@@ -2,7 +2,7 @@
   "name": "echart_components",
   "version": "0.1.0",
   "private": true,
-  "module": "./src/components/index.js",
+  "module": "./src/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
